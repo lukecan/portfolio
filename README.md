@@ -16,3 +16,5 @@ This repository is organized into several sections:
 
 ## Contact Information
 I am open to freelance opportunities and collobarations. Feel free to reach out to me at [mertcangenc1@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/mertcangenc/)
+
+##
