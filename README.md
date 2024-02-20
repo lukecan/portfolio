@@ -5,11 +5,13 @@ Welcome to my portfolio! I'm Mert Can, a professional content writer and creativ
 
 ## Portfolio Overview
 This repository is organized into several sections:
+- **My CV**: My detailed CV.
 - **Blog Posts**: My personal and proffesional blog posts.
 - **Creative Prompts**: A collection of prompts designet to spark creativity.
 - **Social Media Content**: Examples of content created in various social media platforms.
 
 ## How to Navigate My Portfolio
+- [My Cv](https://github.com/lukecan/portfolio/cv.md)
 - [Blog Posts](https://github.com/lukecan/portfolio/blog-posts)
 - [Creative Prompts](https://github.com/lukecan/portfolio/creative-prompts)
 - [Social Media Contents](https://github.com/lukecan/portfolio/social-media-contents)
