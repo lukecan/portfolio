@@ -10,7 +10,7 @@ This repository is organized into several sections:
 - **Social Media Content**: Examples of content created in various social media platforms.
 
 ## How to Navigate My Portfolio
-- https://github.com/lukecan/portfolio/blog-posts
+- [Blog Posts](https://github.com/lukecan/portfolio/blog-posts)
 - https://github.com/lukecan/portfolio/creative-prompts
 - https://github.com/lukecan/portfolio/social-media-contents
 
