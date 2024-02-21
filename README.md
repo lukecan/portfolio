@@ -13,8 +13,9 @@ This repository is organized into several sections:
 ## How to Navigate My Portfolio
 - [My Cv](cv.md)
 - [Blog Posts](/blog-posts)
-- [Creative Prompts](https://github.com/lukecan/portfolio/creative-prompts)
-- [Social Media Contents](https://github.com/lukecan/portfolio/social-media-contents)
+- [Creative Prompts](/creative-prompts)
+- [Social Media Contents](/social-media)
+- [Listicles](/listicles/)
 
 ## Contact Information
 I am open to freelance opportunities and collobarations. Feel free to reach out to me at mertcangenc1@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mertcangenc/)
