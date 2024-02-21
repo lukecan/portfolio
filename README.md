@@ -17,7 +17,7 @@ This repository is organized into several sections:
 - [Social Media Contents](https://github.com/lukecan/portfolio/social-media-contents)
 
 ## Contact Information
-I am open to freelance opportunities and collobarations. Feel free to reach out to me at [mertcangenc1@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/mertcangenc/)
+I am open to freelance opportunities and collobarations. Feel free to reach out to me at mertcangenc1@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mertcangenc/)
 
 ## License
 This portfolio and all content within it are released under the [GNU Affero General Public License version 3](https://www.gnu.org/licenses/agpl-3.0.en.html) (AGPL-3.0), dated 19 November 2007. This license allows users to share and modify the work, provided that any derivative work or modifications are also licensed under the AGPL-3.0.
