@@ -12,7 +12,7 @@ This repository is organized into several sections:
 
 ## How to Navigate My Portfolio
 - [My Cv](cv.md)
-- [Blog Posts](https://github.com/lukecan/portfolio/blog-posts)
+- [Blog Posts](/blog-posts)
 - [Creative Prompts](https://github.com/lukecan/portfolio/creative-prompts)
 - [Social Media Contents](https://github.com/lukecan/portfolio/social-media-contents)
 
