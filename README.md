@@ -12,10 +12,10 @@ This repository is organized into several sections:
 
 ## How to Navigate My Portfolio
 - [My Cv](cv.md)
-- [Blog Posts](/blog-posts)
-- [Creative Prompts](/creative-prompts)
-- [Social Media Contents](/social-media)
-- [Listicles](/listicles/)
+- [Blog Posts](/portfolio/blog-posts)
+- [Creative Prompts](/portfolio/creative-prompts)
+- [Social Media Contents](/portfolio/social-media)
+- [Listicles](/portfolio/listicles/)
 
 ## Contact Information
 I am open to freelance opportunities and collobarations. Feel free to reach out to me at mertcangenc1@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mertcangenc/)
